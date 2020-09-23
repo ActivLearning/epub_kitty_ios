@@ -3,15 +3,15 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'epub_kitty_ios'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = 'A epub reader flutter plugin project.'
   s.description      = <<-DESC
 A new flutter plugin project.
                        DESC
   s.homepage         = 'https://github.com/ActivLearning/epub_kitty_ios.git'
   s.license          = "MIT"
-  s.author           = { 'BIGCATDOG' => '783052479@qq.com' }
-  s.source           = { :git => 'https://github.com/ActivLearning/epub_kitty_ios.git', :tag=>'0.1.2' }
+  s.author           = { 'NDOrg' => 'alex-m@nd.com.cn' }
+  s.source           = { :git => 'https://github.com/ActivLearning/epub_kitty_ios.git', :tag=>'0.1.3' }
   
   s.swift_version = '4.2'
   s.requires_arc  = true
