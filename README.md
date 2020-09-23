@@ -17,10 +17,5 @@ Podfile:
 
 ## Tool Language
 plugin in ios default language is en,if you are chinese,you should configuare Localizable.strings. And you can see example to match.
-
- 
-### QQ Communication：
-QQ：853797155，Welcome to exchange questions and technologies!
-
 ### Welcome TO PR
 	
